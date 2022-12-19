@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../esp/DAIoT_2022_GCP_Mutual_auth_ESP32-master"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"mqtt_client.h": "c",
+			"esp_random.h": "c"
+		}
+	}
+}
